@@ -31,3 +31,5 @@ Key findings suggest that:
 - **Excel**: Used for initial data cleaning and preprocessing.
 - **Census 2021 Data** (England & Wales only)
 - **UK General Election 2024 Results**
+
+This research is intended for academic purposes only. 
